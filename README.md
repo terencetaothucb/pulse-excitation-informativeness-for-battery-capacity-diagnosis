@@ -12,9 +12,7 @@ This GitHub repository is the main code repository. It contains the analysis cod
 
 Download the raw LFP pulse-excitation data from Zenodo:
 
-```text
-Zenodo raw-data link: <insert Zenodo DOI or URL here>
-```
+Tao, S., Xia, C., & Zou, C. (2026). Pulse excitation informativeness for battery capacity diagnosis (v1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.21008092](https://doi.org/10.5281/zenodo.21008092)
 
 After downloading, place the raw data under this repository as:
 
