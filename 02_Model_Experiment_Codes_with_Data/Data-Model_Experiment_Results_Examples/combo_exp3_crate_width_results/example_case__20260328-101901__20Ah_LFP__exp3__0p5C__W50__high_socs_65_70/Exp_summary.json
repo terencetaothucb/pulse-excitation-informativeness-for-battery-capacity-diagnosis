@@ -1,0 +1,69 @@
+{
+  "material": "20Ah LFP",
+  "label_col": "SOH",
+  "n_samples": 57,
+  "n_features": 2,
+  "features": [
+    "fai_irrev_0.5C__W50__SOC65",
+    "fai_irrev_0.5C__W50__SOC70"
+  ],
+  "feature_spec": {
+    "mode": "grid_family",
+    "name": "exp3__0p5C__W50__high_socs_65_70",
+    "feature_family": "fai_irrev",
+    "widths_ms": [
+      50
+    ],
+    "socs": [
+      65,
+      70
+    ],
+    "c_rates": [
+      "0.5C"
+    ],
+    "merge_keys": [
+      "Qn",
+      "Q"
+    ],
+    "family_aliases": [
+      "phi_irrev",
+      "irrev"
+    ],
+    "n_widths": 1,
+    "n_socs": 2,
+    "n_c_rates": 1
+  },
+  "data_mode": "grid_family",
+  "block_count": 2,
+  "blocks": [
+    {
+      "width_ms": 50,
+      "soc": 65,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_50.xlsx",
+      "sheet": "SOC65",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_0.5C"
+      ]
+    },
+    {
+      "width_ms": 50,
+      "soc": 70,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_50.xlsx",
+      "sheet": "SOC70",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_0.5C"
+      ]
+    }
+  ],
+  "merge_keys": [
+    "Qn",
+    "Q"
+  ],
+  "y_min": 0.76375,
+  "y_max": 0.8255250000000001,
+  "y_mean": 0.7955348245614035,
+  "y_std": 0.015941645256308812,
+  "torch_available": true
+}

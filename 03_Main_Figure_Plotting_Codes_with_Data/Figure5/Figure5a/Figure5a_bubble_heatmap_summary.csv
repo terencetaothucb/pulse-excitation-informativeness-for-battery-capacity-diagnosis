@@ -1,0 +1,10 @@
+﻿plot_component,source,material,model,feature_strategy,feature_strategy_short,scenario_group_type,scenario_group,selected_feature,case_name,combo_mae,combo_mae_std,single_baseline_mae,mae_improvement_pct
+bubble_heatmap_summary,summary,20Ah LFP,linear,Combinational C-Rate,Comb.-C,,,,,0.015447901375221906,0.00232397,0.015970699499999998,3.2734829478075906
+bubble_heatmap_summary,summary,20Ah LFP,linear,Combinational Width,Comb.-W,,,,,0.014866734807126133,0.00221213,0.015970699499999998,6.912437948468475
+bubble_heatmap_summary,summary,20Ah LFP,linear,Combinational SOC,Comb.-SOC,,,,,0.014885074172780923,0.0021906185,0.015970699499999998,6.797606624675861
+bubble_heatmap_summary,summary,35Ah LFP,linear,Combinational C-Rate,Comb.-C,,,,,0.035069007,0.0066030525,0.0358849525,2.273781747377256
+bubble_heatmap_summary,summary,35Ah LFP,linear,Combinational Width,Comb.-W,,,,,0.0342008625,0.0064630090000000005,0.0358849525,4.693025579454227
+bubble_heatmap_summary,summary,35Ah LFP,linear,Combinational SOC,Comb.-SOC,,,,,0.031918871,0.0059840615,0.0358849525,11.052213319775179
+bubble_heatmap_summary,summary,68Ah LFP,linear,Combinational C-Rate,Comb.-C,,,,,0.0391926222714246,0.0049459594999999995,0.042391706,7.546484985943712
+bubble_heatmap_summary,summary,68Ah LFP,linear,Combinational Width,Comb.-W,,,,,0.032780521,0.004540869,0.042391706,22.672324156994296
+bubble_heatmap_summary,summary,68Ah LFP,linear,Combinational SOC,Comb.-SOC,,,,,0.032627432182666595,0.004659524999999999,0.042391706,23.03345333007689

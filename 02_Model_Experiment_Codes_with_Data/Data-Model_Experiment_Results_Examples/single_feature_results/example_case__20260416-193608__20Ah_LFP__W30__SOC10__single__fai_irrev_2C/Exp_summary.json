@@ -1,0 +1,54 @@
+{
+  "material": "20Ah LFP",
+  "label_col": "SOH",
+  "n_samples": 102,
+  "n_features": 1,
+  "features": [
+    "fai_irrev_2C"
+  ],
+  "feature_spec": {
+    "mode": "legacy_combo",
+    "name": "single__fai_irrev_2C",
+    "combo": null,
+    "include_groups": null,
+    "exclude_groups": null,
+    "add_features": [
+      "fai_irrev_2C"
+    ],
+    "drop_features": null,
+    "keep_regex": null,
+    "meta_columns": [
+      "Qn",
+      "Q",
+      "SOC"
+    ],
+    "feature_list_requested": [
+      "fai_irrev_2C"
+    ],
+    "n_features_requested": 1
+  },
+  "data_mode": "legacy_combo",
+  "block_count": 1,
+  "blocks": [
+    {
+      "width_ms": 30,
+      "soc": 10,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_30.xlsx",
+      "sheet": "SOC10",
+      "n_features": 1
+    }
+  ],
+  "merge_keys": [
+    "Qn",
+    "Q",
+    "SOC"
+  ],
+  "y_min": 0.66631,
+  "y_max": 0.8255250000000001,
+  "y_mean": 0.764577843137255,
+  "y_std": 0.03973453099246399,
+  "torch_available": true,
+  "case_status": "completed",
+  "case_status_reason": "All requested model/seed runs completed.",
+  "successful_metric_rows": 1100
+}

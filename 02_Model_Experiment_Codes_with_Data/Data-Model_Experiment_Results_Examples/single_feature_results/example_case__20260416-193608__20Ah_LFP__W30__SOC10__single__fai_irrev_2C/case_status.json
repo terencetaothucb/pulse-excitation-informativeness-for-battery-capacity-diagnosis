@@ -1,0 +1,10 @@
+{
+  "case_name": "single__fai_irrev_2C",
+  "feature_tag": "single__fai_irrev_2C__add1",
+  "feature_name": "single__fai_irrev_2C",
+  "material": "20Ah LFP",
+  "status": "completed",
+  "reason": "All requested model/seed runs completed.",
+  "run_dir": "/mimer/NOBACKUP/groups/naiss2026-4-521/PulseBat/gpu_combo_all_single/Results_single_feature/20260416-193608__20Ah_LFP__W30__SOC10__single__fai_irrev_2C",
+  "successful_metric_rows": 1100
+}

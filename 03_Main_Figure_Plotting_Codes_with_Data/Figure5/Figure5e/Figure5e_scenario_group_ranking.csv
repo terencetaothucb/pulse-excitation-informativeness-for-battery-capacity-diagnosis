@@ -1,0 +1,11 @@
+﻿scenario_group_type,feature_strategy,scenario_group,scenario_group_label,rank_within_type,mae,mae_std
+soc_group,Combinational SOC,all_socs,all SOCs,2,0.014976312394765826,0.0031101195
+soc_group,Combinational SOC,high_socs_55_60_65_70,high SOCs 55 60 65 70,1,0.013987146614889697,0.0025085965
+soc_group,Combinational SOC,high_socs_65_70,high SOCs 65 70,3,0.018303313,0.0033141205
+soc_group,Combinational SOC,mid_socs_35_40_45_50,mid SOCs 35 40 45 50,4,0.025824377660767825,0.004453201
+soc_group,Combinational SOC,mid_socs_35_40,mid SOCs 35 40,5,0.02652586125016839,0.004440539
+soc_group,Combinational SOC,mid_socs_45_50,mid SOCs 45 50,6,0.029484361201326234,0.0046875905
+soc_group,Combinational SOC,high_socs_55_60,high SOCs 55 60,7,0.029604829320753444,0.004753911499999999
+soc_group,Combinational SOC,low_socs_05_30,low SOCs 05 30,8,0.032020149,0.0054338879999999996
+soc_group,Combinational SOC,low_socs_05_20,low SOCs 05 20,9,0.032735947067639076,0.005521375
+soc_group,Combinational SOC,low_socs_05_10,low SOCs 05 10,10,0.0345399865,0.005318208

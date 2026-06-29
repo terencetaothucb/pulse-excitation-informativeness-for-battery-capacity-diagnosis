@@ -1,0 +1,165 @@
+{
+  "material": "20Ah LFP",
+  "label_col": "SOH",
+  "n_samples": 102,
+  "n_features": 10,
+  "features": [
+    "fai_irrev_2.5C__W30__SOC5",
+    "fai_irrev_2.5C__W50__SOC5",
+    "fai_irrev_2.5C__W70__SOC5",
+    "fai_irrev_2.5C__W100__SOC5",
+    "fai_irrev_2.5C__W300__SOC5",
+    "fai_irrev_2.5C__W500__SOC5",
+    "fai_irrev_2.5C__W700__SOC5",
+    "fai_irrev_2.5C__W1000__SOC5",
+    "fai_irrev_2.5C__W3000__SOC5",
+    "fai_irrev_2.5C__W5000__SOC5"
+  ],
+  "feature_spec": {
+    "mode": "grid_family",
+    "name": "exp2__SOC05_2p5C__all_widths",
+    "feature_family": "fai_irrev",
+    "widths_ms": [
+      30,
+      50,
+      70,
+      100,
+      300,
+      500,
+      700,
+      1000,
+      3000,
+      5000
+    ],
+    "socs": [
+      5
+    ],
+    "c_rates": [
+      "2.5C"
+    ],
+    "merge_keys": [
+      "Qn",
+      "Q"
+    ],
+    "family_aliases": [
+      "phi_irrev",
+      "irrev"
+    ],
+    "n_widths": 10,
+    "n_socs": 1,
+    "n_c_rates": 1
+  },
+  "data_mode": "grid_family",
+  "block_count": 10,
+  "blocks": [
+    {
+      "width_ms": 30,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_30.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 50,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_50.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 70,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_70.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 100,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_100.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 300,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_300.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 500,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_500.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 700,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_700.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 1000,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_1000.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 3000,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_3000.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    },
+    {
+      "width_ms": 5000,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_5000.xlsx",
+      "sheet": "SOC5",
+      "n_features": 1,
+      "matched_feature_preview": [
+        "fai_irrev_2.5C"
+      ]
+    }
+  ],
+  "merge_keys": [
+    "Qn",
+    "Q"
+  ],
+  "y_min": 0.66631,
+  "y_max": 0.8255250000000001,
+  "y_mean": 0.764577843137255,
+  "y_std": 0.03973453099246399,
+  "torch_available": true
+}

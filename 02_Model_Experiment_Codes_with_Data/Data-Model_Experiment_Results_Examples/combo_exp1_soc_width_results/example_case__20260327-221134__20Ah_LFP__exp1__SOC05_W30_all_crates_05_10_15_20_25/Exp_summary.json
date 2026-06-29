@@ -1,0 +1,69 @@
+{
+  "material": "20Ah LFP",
+  "label_col": "SOH",
+  "n_samples": 102,
+  "n_features": 5,
+  "features": [
+    "fai_irrev_0.5C__W30__SOC5",
+    "fai_irrev_1C__W30__SOC5",
+    "fai_irrev_1.5C__W30__SOC5",
+    "fai_irrev_2C__W30__SOC5",
+    "fai_irrev_2.5C__W30__SOC5"
+  ],
+  "feature_spec": {
+    "mode": "grid_family",
+    "name": "exp1__SOC05_W30_all_crates_05_10_15_20_25",
+    "feature_family": "fai_irrev",
+    "widths_ms": [
+      30
+    ],
+    "socs": [
+      5
+    ],
+    "c_rates": [
+      "0.5C",
+      "1C",
+      "1.5C",
+      "2C",
+      "2.5C"
+    ],
+    "merge_keys": [
+      "Qn",
+      "Q"
+    ],
+    "family_aliases": [
+      "phi_irrev",
+      "irrev"
+    ],
+    "n_widths": 1,
+    "n_socs": 1,
+    "n_c_rates": 5
+  },
+  "data_mode": "grid_family",
+  "block_count": 1,
+  "blocks": [
+    {
+      "width_ms": 30,
+      "soc": 5,
+      "xlsx": "/mimer/NOBACKUP/groups/naiss2025-22-468/datasets/PulseBat/Model/Fts-For-Model/20Ah LFP/LFP_20Ah_W_30.xlsx",
+      "sheet": "SOC5",
+      "n_features": 5,
+      "matched_feature_preview": [
+        "fai_irrev_0.5C",
+        "fai_irrev_1C",
+        "fai_irrev_1.5C",
+        "fai_irrev_2C",
+        "fai_irrev_2.5C"
+      ]
+    }
+  ],
+  "merge_keys": [
+    "Qn",
+    "Q"
+  ],
+  "y_min": 0.66631,
+  "y_max": 0.8255250000000001,
+  "y_mean": 0.764577843137255,
+  "y_std": 0.03973453099246399,
+  "torch_available": true
+}

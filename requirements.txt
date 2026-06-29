@@ -1,8 +1,17 @@
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-openpyxl
-xgboost
-torch
+# Data processing environment (local Windows environment)
+numpy==2.3.4
+pandas==2.3.3
+openpyxl==3.1.5
+scikit-learn==1.6.1
+matplotlib==3.10.7
+
+# Model environment (HPC environment)
+# PyTorch was run on the HPC system with:
+#   module load PyTorch/2.1.2-foss-2023a-CUDA-12.1.1
+# and the project virtual environment activated afterward.
+# torch==2.1.2 corresponds to that CUDA-enabled module environment.
+numpy==1.25.1
+pandas==2.0.3
+scikit-learn==1.8.0
+xgboost==3.2.0
+torch==2.1.2

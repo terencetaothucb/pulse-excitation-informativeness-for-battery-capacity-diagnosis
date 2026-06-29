@@ -1,0 +1,10 @@
+﻿scenario_group_type,feature_strategy,scenario_group,scenario_group_label,rank_within_type,mae,mae_std
+width_group,Combinational Width,all_widths,all Ws,1,0.018514769379836715,0.003304696
+width_group,Combinational Width,high_widths_1000_3000_5000,high Ws 1000 3000 5000,2,0.02097516482447422,0.003681811
+width_group,Combinational Width,high_widths_1000_3000,high Ws 1000 3000,3,0.021883849663679657,0.00376633
+width_group,Combinational Width,high_widths_3000_5000,high Ws 3000 5000,4,0.022071277912746635,0.003629488
+width_group,Combinational Width,mid_widths_300_500_700,mid Ws 300 500 700,5,0.028256086,0.004566638
+width_group,Combinational Width,mid_widths_100_300_500,mid Ws 100 300 500,6,0.029391829839709345,0.0047343175
+width_group,Combinational Width,low_widths_50_70_100,low Ws 50 70 100,7,0.03556928644767991,0.0057455565
+width_group,Combinational Width,low_widths_30_50_70_100,low Ws 30 50 70 100,8,0.03607896563653739,0.005926366000000001
+width_group,Combinational Width,low_widths_30_50_70,low Ws 30 50 70,9,0.036409382500000004,0.005929253000000001

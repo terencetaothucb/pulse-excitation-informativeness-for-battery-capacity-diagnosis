@@ -1,0 +1,106 @@
+﻿plot_component,model,feature_strategy,feature_strategy_short,material,mae,mae_std,fit_time_s,pred_time_us,pred_time_s,total_time_s
+mae_bar_summary,linear,Combinational C-Rate,Comb.-C,,0.028524221607014764,0.004679348,,,,
+mae_bar_summary,linear,Combinational Width,Comb.-W,,0.0251083558187824,0.0043025070000000006,,,,
+mae_bar_summary,linear,Combinational SOC,Comb.-SOC,,0.024051817455633284,0.004300118,,,,
+mae_bar_summary,rf,Combinational C-Rate,Comb.-C,,0.02825080616401915,0.0053673025,,,,
+mae_bar_summary,rf,Combinational Width,Comb.-W,,0.023429775,0.004823901,,,,
+mae_bar_summary,rf,Combinational SOC,Comb.-SOC,,0.023019818468159106,0.0045120805,,,,
+mae_bar_summary,xgb,Combinational C-Rate,Comb.-C,,0.03243507262981872,0.006380312,,,,
+mae_bar_summary,xgb,Combinational Width,Comb.-W,,0.026917903121800812,0.005452727500000001,,,,
+mae_bar_summary,xgb,Combinational SOC,Comb.-SOC,,0.0263312095,0.0050485354999999996,,,,
+mae_bar_summary,gpr,Combinational C-Rate,Comb.-C,,0.03875650471428573,0.005941929,,,,
+mae_bar_summary,gpr,Combinational Width,Comb.-W,,0.0373977775,0.006097618000000001,,,,
+mae_bar_summary,gpr,Combinational SOC,Comb.-SOC,,0.03507227513227512,0.0056922975,,,,
+mae_bar_summary,mlp,Combinational C-Rate,Comb.-C,,0.03556253832242172,0.010744788227961447,,,,
+mae_bar_summary,mlp,Combinational Width,Comb.-W,,0.036559431,0.01236386666861067,,,,
+mae_bar_summary,mlp,Combinational SOC,Comb.-SOC,,0.037540399017420206,0.012147682953241534,,,,
+mae_bar_summary,transformer,Combinational C-Rate,Comb.-C,,0.030389336000000003,0.007610551,,,,
+mae_bar_summary,transformer,Combinational Width,Comb.-W,,0.029688935,0.007465536,,,,
+mae_bar_summary,transformer,Combinational SOC,Comb.-SOC,,0.02742514378484113,0.0067013165,,,,
+mae_bar_summary,informer,Combinational C-Rate,Comb.-C,,0.029312191495478042,0.006960237,,,,
+mae_bar_summary,informer,Combinational Width,Comb.-W,,0.0287538915,0.0067573635,,,,
+mae_bar_summary,informer,Combinational SOC,Comb.-SOC,,0.026732500454976944,0.0061110345,,,,
+material_overlap_points,linear,Combinational C-Rate,Comb.-C,20Ah LFP,0.015447901375221906,,,,,
+material_overlap_points,linear,Combinational C-Rate,Comb.-C,35Ah LFP,0.035069007,,,,,
+material_overlap_points,linear,Combinational C-Rate,Comb.-C,68Ah LFP,0.0391926222714246,,,,,
+material_overlap_points,linear,Combinational Width,Comb.-W,20Ah LFP,0.014866734807126133,,,,,
+material_overlap_points,linear,Combinational Width,Comb.-W,35Ah LFP,0.0342008625,,,,,
+material_overlap_points,linear,Combinational Width,Comb.-W,68Ah LFP,0.032780521,,,,,
+material_overlap_points,linear,Combinational SOC,Comb.-SOC,20Ah LFP,0.014885074172780923,,,,,
+material_overlap_points,linear,Combinational SOC,Comb.-SOC,35Ah LFP,0.031918871,,,,,
+material_overlap_points,linear,Combinational SOC,Comb.-SOC,68Ah LFP,0.032627432182666595,,,,,
+material_overlap_points,rf,Combinational C-Rate,Comb.-C,20Ah LFP,0.015601414996693912,,,,,
+material_overlap_points,rf,Combinational C-Rate,Comb.-C,35Ah LFP,0.036926336000000004,,,,,
+material_overlap_points,rf,Combinational C-Rate,Comb.-C,68Ah LFP,0.03899384393709651,,,,,
+material_overlap_points,rf,Combinational Width,Comb.-W,20Ah LFP,0.014978742460317789,,,,,
+material_overlap_points,rf,Combinational Width,Comb.-W,35Ah LFP,0.034609118288171106,,,,,
+material_overlap_points,rf,Combinational Width,Comb.-W,68Ah LFP,0.030813489276960957,,,,,
+material_overlap_points,rf,Combinational SOC,Comb.-SOC,20Ah LFP,0.014827187996032021,,,,,
+material_overlap_points,rf,Combinational SOC,Comb.-SOC,35Ah LFP,0.03313807178543063,,,,,
+material_overlap_points,rf,Combinational SOC,Comb.-SOC,68Ah LFP,0.02912922221201003,,,,,
+material_overlap_points,xgb,Combinational C-Rate,Comb.-C,20Ah LFP,0.018318520534233097,,,,,
+material_overlap_points,xgb,Combinational C-Rate,Comb.-C,35Ah LFP,0.042889499,,,,,
+material_overlap_points,xgb,Combinational C-Rate,Comb.-C,68Ah LFP,0.0423333285,,,,,
+material_overlap_points,xgb,Combinational Width,Comb.-W,20Ah LFP,0.016476383196512873,,,,,
+material_overlap_points,xgb,Combinational Width,Comb.-W,35Ah LFP,0.0386665035,,,,,
+material_overlap_points,xgb,Combinational Width,Comb.-W,68Ah LFP,0.035673469,,,,,
+material_overlap_points,xgb,Combinational SOC,Comb.-SOC,20Ah LFP,0.0166093745,,,,,
+material_overlap_points,xgb,Combinational SOC,Comb.-SOC,35Ah LFP,0.03750539335428056,,,,,
+material_overlap_points,xgb,Combinational SOC,Comb.-SOC,68Ah LFP,0.03380938074917353,,,,,
+material_overlap_points,gpr,Combinational C-Rate,Comb.-C,20Ah LFP,0.014533143630068617,,,,,
+material_overlap_points,gpr,Combinational C-Rate,Comb.-C,35Ah LFP,0.040574329,,,,,
+material_overlap_points,gpr,Combinational C-Rate,Comb.-C,68Ah LFP,0.0518963275,,,,,
+material_overlap_points,gpr,Combinational Width,Comb.-W,20Ah LFP,0.015129372725708457,,,,,
+material_overlap_points,gpr,Combinational Width,Comb.-W,35Ah LFP,0.04034179289112862,,,,,
+material_overlap_points,gpr,Combinational Width,Comb.-W,68Ah LFP,0.051876309,,,,,
+material_overlap_points,gpr,Combinational SOC,Comb.-SOC,20Ah LFP,0.014166006616420146,,,,,
+material_overlap_points,gpr,Combinational SOC,Comb.-SOC,35Ah LFP,0.04019921619534023,,,,,
+material_overlap_points,gpr,Combinational SOC,Comb.-SOC,68Ah LFP,0.051406586000000004,,,,,
+material_overlap_points,mlp,Combinational C-Rate,Comb.-C,20Ah LFP,0.016197359193733333,,,,,
+material_overlap_points,mlp,Combinational C-Rate,Comb.-C,35Ah LFP,0.0447208405,,,,,
+material_overlap_points,mlp,Combinational C-Rate,Comb.-C,68Ah LFP,0.04427124558989928,,,,,
+material_overlap_points,mlp,Combinational Width,Comb.-W,20Ah LFP,0.016468038,,,,,
+material_overlap_points,mlp,Combinational Width,Comb.-W,35Ah LFP,0.0487738615,,,,,
+material_overlap_points,mlp,Combinational Width,Comb.-W,68Ah LFP,0.045264766,,,,,
+material_overlap_points,mlp,Combinational SOC,Comb.-SOC,20Ah LFP,0.0162797025,,,,,
+material_overlap_points,mlp,Combinational SOC,Comb.-SOC,35Ah LFP,0.04457085117471456,,,,,
+material_overlap_points,mlp,Combinational SOC,Comb.-SOC,68Ah LFP,0.04822385089051827,,,,,
+material_overlap_points,transformer,Combinational C-Rate,Comb.-C,20Ah LFP,0.0158863354751042,,,,,
+material_overlap_points,transformer,Combinational C-Rate,Comb.-C,35Ah LFP,0.0374637095,,,,,
+material_overlap_points,transformer,Combinational C-Rate,Comb.-C,68Ah LFP,0.041199057,,,,,
+material_overlap_points,transformer,Combinational Width,Comb.-W,20Ah LFP,0.015797642,,,,,
+material_overlap_points,transformer,Combinational Width,Comb.-W,35Ah LFP,0.036359954,,,,,
+material_overlap_points,transformer,Combinational Width,Comb.-W,68Ah LFP,0.039899068,,,,,
+material_overlap_points,transformer,Combinational SOC,Comb.-SOC,20Ah LFP,0.015559376292455776,,,,,
+material_overlap_points,transformer,Combinational SOC,Comb.-SOC,35Ah LFP,0.035432939499999996,,,,,
+material_overlap_points,transformer,Combinational SOC,Comb.-SOC,68Ah LFP,0.034901284121909404,,,,,
+material_overlap_points,informer,Combinational C-Rate,Comb.-C,20Ah LFP,0.015188036338034136,,,,,
+material_overlap_points,informer,Combinational C-Rate,Comb.-C,35Ah LFP,0.03621378891373252,,,,,
+material_overlap_points,informer,Combinational C-Rate,Comb.-C,68Ah LFP,0.0407992405,,,,,
+material_overlap_points,informer,Combinational Width,Comb.-W,20Ah LFP,0.015177088295618694,,,,,
+material_overlap_points,informer,Combinational Width,Comb.-W,35Ah LFP,0.035498310051418486,,,,,
+material_overlap_points,informer,Combinational Width,Comb.-W,68Ah LFP,0.039504368,,,,,
+material_overlap_points,informer,Combinational SOC,Comb.-SOC,20Ah LFP,0.014915613937832068,,,,,
+material_overlap_points,informer,Combinational SOC,Comb.-SOC,35Ah LFP,0.034656477500000005,,,,,
+material_overlap_points,informer,Combinational SOC,Comb.-SOC,68Ah LFP,0.034437554999999995,,,,,
+compute_time_summary,linear,Combinational C-Rate,Comb.-C,,,,0.0009819305,9.985118461037544,9.985118461037544e-06,0.0009919156184610375
+compute_time_summary,linear,Combinational Width,Comb.-W,,,,0.000995615,10.367711527376539,1.0367711527376539e-05,0.0010059827115273766
+compute_time_summary,linear,Combinational SOC,Comb.-SOC,,,,0.0010047575,13.40057185318853,1.3400571853188531e-05,0.0010181580718531885
+compute_time_summary,rf,Combinational C-Rate,Comb.-C,,,,0.517807992772862,4475.005102688032,0.004475005102688032,0.5222829978755501
+compute_time_summary,rf,Combinational Width,Comb.-W,,,,0.5191196363011028,4704.082931375709,0.004704082931375709,0.5238237192324785
+compute_time_summary,rf,Combinational SOC,Comb.-SOC,,,,0.5208921529701911,5315.184839197345,0.005315184839197345,0.5262073378093884
+compute_time_summary,xgb,Combinational C-Rate,Comb.-C,,,,0.24657680903328583,76.65831529136216,7.665831529136216e-05,0.24665346734857718
+compute_time_summary,xgb,Combinational Width,Comb.-W,,,,0.18520103802438825,71.10070857813194,7.110070857813194e-05,0.18527213873296638
+compute_time_summary,xgb,Combinational SOC,Comb.-SOC,,,,0.19755976152373478,72.08598600257011,7.20859860025701e-05,0.19763184750973734
+compute_time_summary,gpr,Combinational C-Rate,Comb.-C,,,,0.02903223701287061,18.507777713239193,1.8507777713239194e-05,0.029050744790583848
+compute_time_summary,gpr,Combinational Width,Comb.-W,,,,0.027082841556500762,18.618528510590917,1.8618528510590916e-05,0.027101460085011353
+compute_time_summary,gpr,Combinational SOC,Comb.-SOC,,,,0.025336004758333953,22.16021918381254,2.216021918381254e-05,0.025358164977517767
+compute_time_summary,mlp,Combinational C-Rate,Comb.-C,,,,0.2078392639523372,21.668564142218155,2.1668564142218156e-05,0.2078609325164794
+compute_time_summary,mlp,Combinational Width,Comb.-W,,,,0.23053283902117983,21.70341138384844,2.170341138384844e-05,0.23055454243256368
+compute_time_summary,mlp,Combinational SOC,Comb.-SOC,,,,0.22058526595355943,27.063060163830716,2.7063060163830716e-05,0.22061232901372327
+compute_time_summary,transformer,Combinational C-Rate,Comb.-C,,,,0.7341978407348506,81.37602417264134,8.137602417264133e-05,0.7342792167590233
+compute_time_summary,transformer,Combinational Width,Comb.-W,,,,0.7324014083133079,82.15047235257532,8.215047235257533e-05,0.7324835587856605
+compute_time_summary,transformer,Combinational SOC,Comb.-SOC,,,,0.6382164332317188,110.35907248567258,0.00011035907248567258,0.6383267923042045
+compute_time_summary,informer,Combinational C-Rate,Comb.-C,,,,0.8766748087364249,93.99947302881628,9.399947302881628e-05,0.8767688082094537
+compute_time_summary,informer,Combinational Width,Comb.-W,,,,0.8891170773106434,95.05734411118661,9.50573441111866e-05,0.8892121346547546
+compute_time_summary,informer,Combinational SOC,Comb.-SOC,,,,0.7711372445337474,127.24330216380102,0.000127243302163801,0.7712644878359113

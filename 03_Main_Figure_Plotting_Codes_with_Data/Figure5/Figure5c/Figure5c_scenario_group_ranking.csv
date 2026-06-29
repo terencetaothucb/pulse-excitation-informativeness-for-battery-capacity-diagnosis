@@ -1,0 +1,6 @@
+﻿scenario_group_type,feature_strategy,scenario_group,scenario_group_label,rank_within_type,mae,mae_std
+c_rate_group,Combinational C-Rate,all_crates_05_10_15_20_25,all Cs 05 10 15 20 25,1,0.0279730675,0.0047842455
+c_rate_group,Combinational C-Rate,high_crates_20_25,high Cs 20 25,2,0.02811262645157763,0.0045153505
+c_rate_group,Combinational C-Rate,mid_crates_15_20,mid Cs 15 20,3,0.0281254528887993,0.004600288
+c_rate_group,Combinational C-Rate,mid_crates_10_15,mid Cs 10 15,4,0.028989590490667586,0.004677327
+c_rate_group,Combinational C-Rate,low_crates_05_10,low Cs 05 10,5,0.029743791981179855,0.004969404
